@@ -10,3 +10,7 @@
     background-color: lightgray;
     border: 1px solid black;
 }
+
+.grid div:hover {
+    background-color: black;
+  }
